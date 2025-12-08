@@ -1354,7 +1354,7 @@ function RoClothes(Player)
 				["Name"] = "Clitoris",
 				["MeshId"] = "rbxasset://RClothesContent/17633756976.mesh",
 				["Size"] = Vector3.new(0.036, 0.052, 0.033),
-				["CFrame"] = CFrame.new(0, -0.0852728195, 0.396118164, 1, 0, 0, 0, 1, 0, 0, 0, 1),
+				["CFrame"] = CFrame.new(0, -0.0752728195, 0.396118164, 1, 0, 0, 0, 1, 0, 0, 0, 1),
 				["Transparency"] = 0,
 				["Material"] = Enum.Material.SmoothPlastic,
 				["Color"] = {
@@ -1371,8 +1371,8 @@ function RoClothes(Player)
 				["Instance"] = "Mesh",
 				["Name"] = "Vulva",
 				["MeshId"] = "rbxasset://RClothesContent/17633771118.mesh",
-				["Size"] = Vector3.new(0.049, 0.239, 0.569),
-				["CFrame"] = CFrame.new(0, -0.225252432, 0.116136551, 1, 0, 0, 0, 1, 0, 0, 0, 1),
+				["Size"] = Vector3.new(0.049, 0.199, 0.569),
+				["CFrame"] = CFrame.new(0, -0.125252432, 0.116136551, 1, 0, 0, 0, 1, 0, 0, 0, 1),
 				["Transparency"] = 0,
 				["Material"] = Enum.Material.SmoothPlastic,
 				["Color"] = {
@@ -1390,7 +1390,7 @@ function RoClothes(Player)
 				["Name"] = "Vagina",
 				["MeshId"] = "rbxasset://RClothesContent/17633784085.mesh",
 				["Size"] = Vector3.new(0.048, 0.157, 0.555),
-				["CFrame"] = CFrame.new(0, -0.24120164, 0.12276268, 1, 0, 0, 0, 1, 0, 0, 0, 1),
+				["CFrame"] = CFrame.new(0, -0.14120164, 0.12276268, 1, 0, 0, 0, 1, 0, 0, 0, 1),
 				["Transparency"] = 0,
 				["Material"] = Enum.Material.SmoothPlastic,
 				["Color"] = {
