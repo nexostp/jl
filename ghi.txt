@@ -503,8 +503,8 @@ function RoClothes(Player)
 
 	local NPCs = {}
 
-	local PositionPhysicsMultiply = 1
-	local RotationPhysicsMultiply = 4
+	local PositionPhysicsMultiply = 3
+	local RotationPhysicsMultiply = 9
 
 	local Function = {Spring = {}}
 
