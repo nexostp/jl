@@ -503,8 +503,8 @@ function RoClothes(Player)
 
 	local NPCs = {}
 
-	local PositionPhysicsMultiply = 1
-	local RotationPhysicsMultiply = 4
+	local PositionPhysicsMultiply = 3
+	local RotationPhysicsMultiply = 9
 
 	local Function = {Spring = {}}
 
@@ -545,10 +545,10 @@ function RoClothes(Player)
 			BreastsScale = 1,
 			ButtsScale = 1,
 			LegsScale = 1,
-			BreastsType = 1,
-			TorsoType = 1,
-			ArmType = 1,
-			LegsType = 1,
+			BreastsType = 2,
+			TorsoType = 3,
+			ArmType = 2,
+			LegsType = 3,
 			ButtType = 1,
 			ToggleBBC = false,
 			Cooldown = false,
